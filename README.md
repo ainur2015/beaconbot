@@ -22,7 +22,6 @@ BeaconBot
 - /stats — Статистика сервера Minecraft (/стата)
 - /servers — Список серверов Minecraft (/сервера)
 - /toponline — Топ серверов Minecraft (/топ, /топонлайна)
-- /comparison — Сравнение двух серверов (/сравнить)
 
 ### Настройка бота:
 
