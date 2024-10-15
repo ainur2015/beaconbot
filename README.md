@@ -1,7 +1,7 @@
 # BeaconBot
 
 BeaconBot
-[Ссылка на бота](https://vk.com/beaconbot)  
+[Ссылка на бота](https://vk.com/beacon_bot)  
 Создатель: [vk.com/kalsc12345](https://vk.com/kalsc12345)  
 
 Описание:
